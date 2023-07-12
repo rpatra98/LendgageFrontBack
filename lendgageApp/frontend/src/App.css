@@ -1,0 +1,21 @@
+body, html{
+  margin: 0vh;
+  padding: 0vh;
+}
+
+.main{
+  display: flex;
+  flex-direction: row;
+}
+
+.BtnContainer{
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  margin-top: 30vh;
+  align-items: center;
+  justify-content: space-between;
+  height: 25%;
+  width: 70vw;
+  
+}

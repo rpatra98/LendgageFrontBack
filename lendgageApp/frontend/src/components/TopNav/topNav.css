@@ -1,0 +1,7 @@
+.topNav_main{
+    padding-left: 1vw;
+    padding-right: 1vw;
+    display: flex;
+    justify-content: space-between;
+    color: #38b6ff;
+}

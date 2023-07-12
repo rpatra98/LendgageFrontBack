@@ -1,0 +1,42 @@
+.mobileOtp_main{
+    padding: 1rem;
+    padding-left: 5rem;
+    height: 60vh;
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+
+.pageHeading{
+    color: #004aad;
+    font-weight: 500;
+    font-size: 3em;
+}
+
+.textBoxHeading{
+    color: #38b6ff;
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+.mobileEnterAndButton{
+    display: flex;
+}
+
+.minorButton{
+    width: 150px;
+    border: 1.5px solid #004aad;
+    border-radius: 5px;
+}
+
+.mblNumInput{
+    border: none;
+    width: 30vw;
+}
+
+.mblNumSendBtn{
+    display: flex;
+}
+
+.otpInput{
+    border: none;
+}
